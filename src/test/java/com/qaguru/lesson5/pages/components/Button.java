@@ -1,4 +1,4 @@
-package com.qaguru.lesson5.testdata.pages.components;
+package com.qaguru.lesson5.pages.components;
 
 import com.codeborne.selenide.Condition;
 import com.codeborne.selenide.SelenideElement;
